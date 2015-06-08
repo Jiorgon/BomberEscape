@@ -1,0 +1,3 @@
+Movimiento -> Flechas de direccion
+Poner bomba -> Ctrl
+Salir al menu principal -> Esc
